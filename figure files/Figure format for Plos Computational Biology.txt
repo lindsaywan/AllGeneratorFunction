@@ -1,0 +1,18 @@
+Figure requirements for Plos Computational Biology
+
+Format: .tif
+Size: under 10 MB
+Dimensions: max 7.5 in W * 8.75 in H
+	    min 2.63 in W
+Color: RGB (8 bit/channel) or greyscale
+Text within: Arial, Times, or Symbol font, 8-12 point
+Lines: min 0.5 point
+Resolution: 300-600 dpi
+Compression: LZW
+Background color: white
+
+
+What we use:
+RGB, 600 dpi
+
+All can be modified in Visio or Python.

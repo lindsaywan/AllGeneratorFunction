@@ -1,0 +1,18 @@
+Instruction on running the end-organ model
+
+The whole model contains four .py files:
+
+1. model_constants.py
+2. gen_function.py
+3. lif_model.py
+4. stress_to_spike.py
+
+1 contains the constants essential to run the whole model.
+2 is the code for the generator function.
+3 is the code for the LIF model.
+4 is the complete model, which calls 1, 2, and 3 when running. 
+
+To run the whole model, open 4: stress_to_spike.py in a python ide (for example, Spyder).
+Clike "run" to run a sample stress input.
+
+The input data files used in this model in my thesis are all included in the folder "time and stress data". You may change the input files in 4.
